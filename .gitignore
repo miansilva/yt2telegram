@@ -1,0 +1,14 @@
+# Archivos de credenciales y variables de entorno secretas
+.env
+.env.local
+
+# Archivo de estado local (para evitar subir datos locales al repositorio)
+state.json
+
+# Módulos y dependencias de Node.js
+node_modules/
+
+# Archivos de logs y sistema operativo
+*.log
+.DS_Store
+Thumbs.db
